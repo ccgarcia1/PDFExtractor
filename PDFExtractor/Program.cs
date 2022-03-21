@@ -5,7 +5,7 @@ using System.Text;
 using iTextSharp.text.pdf;
 using iTextSharp.text.pdf.parser;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace PDFExtractor // Note: actual namespace depends on the project name.
 {
     internal class Program
     {
