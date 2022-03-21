@@ -26,7 +26,6 @@ namespace PDFExtractor // Note: actual namespace depends on the project name.
                 
                 }
             }
-            
             Console.WriteLine(sb.ToString());
             Console.ReadKey();
 
